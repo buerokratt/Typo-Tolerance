@@ -1,1 +1,1 @@
-# Typo-Tolerance
+# Typo Tolerance
